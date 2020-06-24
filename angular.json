@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "studentmentorangular"
+    }
+  },
+  "defaultProject": "studentmentorangular",
+  "cli": {
+    "analytics": "33a34e61-b081-4281-bc4b-70f947638264"
+  }
 }
